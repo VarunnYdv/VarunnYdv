@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/varun-yadav-6a098b351) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Varun Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunjiyadav9136@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-yadav-6a098b351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunjiyadav9136@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
